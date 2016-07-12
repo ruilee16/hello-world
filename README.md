@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Hi Players!
 I'm a housewife.
