@@ -1,3 +1,33 @@
-html {
-  color: blue;
+body{
+  font-family: Lobster,  Tahoma, Sans-Serif;
+}
+.content-block{
+  position:relative;
+  top:middle;
+  height:50%;
+ 
+}
+.icons{
+  padding:5px;
+  
+}
+#projects{padding-top:100px;color: #fff; background-color:rgb(116,72,157);}
+#photos{padding-top:50px;color: #fff; background-color:  rgb(73,172,151);}
+#social-media{ padding-top:50px;color: #fff; background-color: #1E88E5;}
+
+.block{
+  width:80%;
+  height:80%;
+  position:relative;
+  top:0;
+  left:10%;
+ 
+}
+.content-block-text{
+  position:absolute;
+  top:0;
+  color:white;
+  text-align:center;
+  width:100%;
+  z-index:4;
 }
